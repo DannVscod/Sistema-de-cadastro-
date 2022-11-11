@@ -1,0 +1,26 @@
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\appsettings.Development.json
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\appsettings.json
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\Sistema de cadastro.staticwebassets.runtime.json
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\Sistema de cadastro.exe
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\Sistema de cadastro.deps.json
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\Sistema de cadastro.runtimeconfig.json
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\Sistema de cadastro.dll
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\bin\Debug\net6.0\Sistema de cadastro.pdb
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.csproj.AssemblyReference.cache
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.AssemblyInfoInputs.cache
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.AssemblyInfo.cs
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.csproj.CoreCompileInputs.cache
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.RazorAssemblyInfo.cache
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.RazorAssemblyInfo.cs
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\staticwebassets.build.json
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\staticwebassets.development.json
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\scopedcss\bundle\Sistema de cadastro.styles.css
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\scopedcss\projectbundle\Sistema de cadastro.bundle.scp.css
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.dll
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\refint\Sistema de cadastro.dll
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.pdb
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\Sistema de cadastro.genruntimeconfig.cache
+C:\workspace\Cadastros\Sistema de cadastro\Sistema de cadastro\obj\Debug\net6.0\ref\Sistema de cadastro.dll
